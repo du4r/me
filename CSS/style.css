@@ -30,7 +30,6 @@ body {
 }
 
 
-
 /*Cabeçalho*/
 
 .header {
@@ -73,9 +72,6 @@ body {
     cursor: pointer;
     display: none;
 }
-
-
-
 
 
 
@@ -151,9 +147,6 @@ section {
     margin-left: 22rem;
     border-radius: 50%;
 }
-
-
-
 
 
 
